@@ -10,8 +10,6 @@ Binary blood cells classification: infected or not infected.
 - conda install matplotlib
 - conda install scikit-learn
 - conda install jupyterlab
-## Automatically
-Use requirements.txt
 
 # Required folder structure
 ```

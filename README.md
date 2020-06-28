@@ -20,12 +20,12 @@ data
 │   ├── features
 │   │   ├─00000.jpg
 │   │   ├─00001.jpg
-│	│   └─....jpg
+│	│   └─...
 │	└── labels.csv	
 └── inference
     ├── features
     │   ├─20000.jpg
     │   ├─20001.jpg
- 	│   └─....jpg
+ 	│   └─...
  	└── prediction.csv <- model generates this file
 ```
